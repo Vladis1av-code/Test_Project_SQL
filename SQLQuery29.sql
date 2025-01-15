@@ -1,0 +1,7 @@
+SELECT TOP (1000) [Id]
+      ,[Name]
+      ,[Surname]
+      ,[Email]
+      ,[Password]
+      ,[role]
+  FROM [Planeta].[dbo].[Users]
